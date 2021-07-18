@@ -1,9 +1,13 @@
-### Hello, I'm Joonghoon .. 🚀 👋🏻
-a human being trying to be a data-driven and<br>
-interested in getting insight from data as well as natural language processing
+### Hello, I'm Joonghoon 🚀 👋🏻 
+> trying to be a data-driven with critical thinking always<br>
+> getting insight from data and solving real business problem<br>
+> using machine learning, deep learning methods especially in NLP<br>
+> interested in making XAI(eXplainable AI) possible
+
 <br>
 <br>
-### What I did ..  🌕🌖🌗🌘🌑🌒🌓🌔
+
+### Projects
 | 프로젝트명 | 주제 | 비고 |
 |-------|--------|-----|
 |📱 Users Activity Analysis of Mobile App. | 습관 형성 서비스 회사의 모바일 앱 사용자 로그 데이터 분석 및 이탈자 예측 모델 개발 및 해석 | NDA
