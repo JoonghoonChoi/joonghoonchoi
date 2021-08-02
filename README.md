@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
+
 
 ### Projects
 | 프로젝트명 | 주제 | 비고 |
