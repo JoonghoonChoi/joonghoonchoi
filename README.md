@@ -1,10 +1,4 @@
-### Hello, I'm Joonghoon 🚀 👋🏻 
-> trying to be a data-driven with critical thinking always<br>
-> getting insight from data and solving real business problem<br>
-> using machine learning, deep learning methods especially in **NLP** and **Recommendation system**<br>
-> interested in making XAI(eXplainable AI) possible
-
-### Experienced skills
+## Experienced skills
 <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
@@ -12,10 +6,11 @@
 <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 
-### Used at least once
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a> 
+
+## Used at least once
 <img src="https://img.shields.io/badge/plotly-3F4F75?style=flat-square&logo=Plotly&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a> 
@@ -23,7 +18,7 @@
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
 
 
-### Projects
+## Projects
 | 프로젝트명 | 주제 | 비고 |
 |-------|--------|-----|
 |📱 Users Activity Analysis of Mobile App. | 습관 형성 서비스 회사의 모바일 앱 사용자 행동로그 데이터 분석을 통한 이탈 예측 모델 개발 및 해석 | NDA
