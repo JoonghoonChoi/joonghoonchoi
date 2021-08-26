@@ -1,7 +1,9 @@
 ## I'm interested in..
 🚀 　getting insight from data
 
-💼  　solving business and real world problem
+📊 　data visualization
+
+💼  　solving real world problems in business
 
 🤖  　using ML/DL framework
 
