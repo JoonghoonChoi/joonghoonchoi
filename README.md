@@ -1,4 +1,4 @@
-<!-- ## I'm interested in..
+<!-- ## I'm interested in.. -->
 🚀 　getting insight from data
 
 📊 　data visualization
@@ -9,8 +9,9 @@
 
 🔠 　NLP
 
-## Skills -->
-<!-- <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<!-- ## Skills -->
+---
+<img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
@@ -24,7 +25,7 @@
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> -->
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
 <!-- ## Projects
 | 프로젝트명 | 주제 | 비고 |
