@@ -1,16 +1,9 @@
-<!-- ## I'm interested in.. -->
-🚀 　getting insight from data
-
-📊 　data visualization
-
-💼  　solving real world problems in business
-
-🤖  　using ML/DL framework
-
-🔠 　NLP
-
-<!-- ## Skills -->
 ---
+비교적 전통적인 산업에서 커리어를 시작했지만 최신 기술의 집약체인 인공지능에 관심이 생겨 데이터를 공부했습니다.<br>
+현재는 인공지능 스타트업에서 데이터PM으로 일하고 있습니다. 🙃🚀🤖 <br><br>
+
+
+### 스킬셋
 <img src="https://img.shields.io/badge/python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
@@ -27,7 +20,8 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 
-<!-- ## Projects
+
+### 프로젝트
 | 프로젝트명 | 주제 | 비고 |
 |-------|--------|-----|
 |📱 Users Activity Analysis of Mobile App. | 습관 형성 서비스 회사의 모바일 앱 사용자 행동로그 데이터 분석을 통한 이탈 예측 모델 개발 및 해석 | NDA
@@ -39,5 +33,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonghoonChoi&count_private=true&show_icons=true&theme=cobalt&include_all_commits=True) -->
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonghoonChoi&count_private=true&show_icons=true&theme=cobalt&include_all_commits=True)
 
+ -->
